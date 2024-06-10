@@ -40,7 +40,7 @@ ___
 
 ### Применить подготовленные фикстуры
 
-* `python manage.py loaddata network_links_data.json`
+* `python manage.py loaddata catalog_data.json`
 * `python manage.py loaddata users_data.json`
 
 ### Доступ
